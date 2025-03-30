@@ -3,10 +3,13 @@ Final project for B.S. degree. Developed by group consisting of three people, Re
 
 ## Seabed
 Seabed is generated in runtime based on 3D simplex noise. Mesh generation utilises Marching Cubes algorithm and Compute Shaders.
+
 ![Terrain](./Doc/Images/Terrain.gif)
 
 ## Plants and Corals
 All plants and corals are procedurally generated in Blender using Geometry Nodes. All animations are done in Unity shaders.
+
+![Corals and Plants](./Doc/Images/CoralsAndPlants.gif)
 
 ## Fishes
 Fish movement is based on boids algorithm developed by Craig Reynolds. Calculations are performed in Compute Shaders and wobbling animation is done in ahders
