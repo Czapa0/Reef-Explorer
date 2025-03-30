@@ -3,6 +3,7 @@ Final project for B.S. degree. Developed by group consisting of three people, Re
 
 ## Seabed
 Seabed is generated in runtime based on 3D simplex noise. Mesh generation utilises Marching Cubes algorithm and Compute Shaders.
+![Terrain](./Doc/Images/Terrain.gif)
 
 ## Plants and Corals
 All plants and corals are procedurally generated in Blender using Geometry Nodes. All animations are done in Unity shaders.
