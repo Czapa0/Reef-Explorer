@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReefGenerator", "ReefGenerator.csproj", "{5ACC63FD-5618-0840-BD3C-B31FEB9E80BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InEditorTests", "InEditorTests.csproj", "{2121C81F-C812-9CF0-03A5-3B9E760E539B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ACC63FD-5618-0840-BD3C-B31FEB9E80BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACC63FD-5618-0840-BD3C-B31FEB9E80BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACC63FD-5618-0840-BD3C-B31FEB9E80BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACC63FD-5618-0840-BD3C-B31FEB9E80BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2121C81F-C812-9CF0-03A5-3B9E760E539B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2121C81F-C812-9CF0-03A5-3B9E760E539B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2121C81F-C812-9CF0-03A5-3B9E760E539B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2121C81F-C812-9CF0-03A5-3B9E760E539B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
